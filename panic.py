@@ -1,3 +1,4 @@
+# string transformations using list methods (destructive)
 
 phrase = "Don't panic!"
 plist = list(phrase)

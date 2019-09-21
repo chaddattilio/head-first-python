@@ -1,3 +1,4 @@
+# string transformations using square bracket notation (non-destructive)
 
 phrase = "Don't panic!"
 plist = list(phrase)
